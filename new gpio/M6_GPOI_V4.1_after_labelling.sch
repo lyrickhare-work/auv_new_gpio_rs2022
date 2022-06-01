@@ -26439,6 +26439,23 @@ Based on the previous libraries:
 <wire x1="582.93" y1="28.448" x2="582.93" y2="28.194" width="0.1524" layer="91"/>
 <junction x="582.93" y="28.448"/>
 </segment>
+<segment>
+<wire x1="375.92" y1="-172.72" x2="378.46" y2="-172.72" width="0.1524" layer="91"/>
+<wire x1="378.46" y1="-172.72" x2="378.46" y2="-177.8" width="0.1524" layer="91"/>
+<label x="378.46" y="-177.8" size="1.27" layer="95" rot="R270" xref="yes"/>
+<pinref part="IC4" gate="G$1" pin="GND@2"/>
+</segment>
+<segment>
+<wire x1="350.52" y1="-172.72" x2="345.44" y2="-172.72" width="0.1524" layer="91"/>
+<wire x1="345.44" y1="-172.72" x2="345.44" y2="-177.8" width="0.1524" layer="91"/>
+<label x="345.44" y="-177.8" size="1.27" layer="95" rot="R270" xref="yes"/>
+<pinref part="IC4" gate="G$1" pin="GND@1"/>
+</segment>
+<segment>
+<pinref part="PS" gate="-3" pin="1"/>
+<wire x1="375.92" y1="27.94" x2="383.54" y2="27.94" width="0.1524" layer="91"/>
+<label x="383.54" y="27.94" size="1.778" layer="95" xref="yes"/>
+</segment>
 </net>
 <net name="GPIO_5V" class="2">
 <segment>
@@ -26533,12 +26550,6 @@ Based on the previous libraries:
 </net>
 <net name="PWM1" class="0">
 <segment>
-<wire x1="432.435" y1="-60.96" x2="452.12" y2="-60.96" width="0.1524" layer="91"/>
-<label x="452.12" y="-60.96" size="1.778" layer="95" xref="yes"/>
-<pinref part="U4" gate="G$1" pin="PD6(AIN0)"/>
-<wire x1="432.409953125" y1="-60.9606375" x2="432.435" y2="-60.96" width="0.1524" layer="91"/>
-</segment>
-<segment>
 <wire x1="584.2" y1="-165.1" x2="571.5" y2="-165.1" width="0.1524" layer="91"/>
 <label x="571.5" y="-165.1" size="1.778" layer="95" rot="R180" xref="yes"/>
 <pinref part="X2" gate="-B24" pin="S"/>
@@ -26549,14 +26560,14 @@ Based on the previous libraries:
 <junction x="601.98" y="-165.1"/>
 <junction x="584.2" y="-165.1"/>
 </segment>
+<segment>
+<wire x1="432.435" y1="-60.96" x2="452.12" y2="-60.96" width="0.1524" layer="91"/>
+<label x="452.12" y="-60.96" size="1.778" layer="95" xref="yes"/>
+<pinref part="U4" gate="G$1" pin="PD6(AIN0)"/>
+<wire x1="432.409953125" y1="-60.9606375" x2="432.435" y2="-60.96" width="0.1524" layer="91"/>
+</segment>
 </net>
 <net name="PWM2" class="0">
-<segment>
-<pinref part="U4" gate="G$1" pin="PD7(AIN1)"/>
-<wire x1="432.435" y1="-63.5" x2="441.96" y2="-63.5" width="0.1524" layer="91"/>
-<label x="441.96" y="-63.5" size="1.778" layer="95" xref="yes"/>
-<wire x1="432.409953125" y1="-63.5006375" x2="432.435" y2="-63.5" width="0.1524" layer="91"/>
-</segment>
 <segment>
 <wire x1="584.2" y1="-162.56" x2="571.5" y2="-162.56" width="0.1524" layer="91"/>
 <label x="571.5" y="-162.56" size="1.778" layer="95" rot="R180" xref="yes"/>
@@ -26567,6 +26578,12 @@ Based on the previous libraries:
 <wire x1="601.98" y1="-162.56" x2="619.76" y2="-162.56" width="0.1524" layer="91"/>
 <junction x="601.98" y="-162.56"/>
 <junction x="584.2" y="-162.56"/>
+</segment>
+<segment>
+<pinref part="U4" gate="G$1" pin="PD7(AIN1)"/>
+<wire x1="432.435" y1="-63.5" x2="441.96" y2="-63.5" width="0.1524" layer="91"/>
+<label x="441.96" y="-63.5" size="1.778" layer="95" xref="yes"/>
+<wire x1="432.409953125" y1="-63.5006375" x2="432.435" y2="-63.5" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="BUFFER" class="0">
@@ -27058,25 +27075,6 @@ Based on the previous libraries:
 <wire x1="505.841" y1="-29.845" x2="505.841" y2="-26.67" width="0.1524" layer="91"/>
 <wire x1="505.841" y1="-26.67" x2="516.255" y2="-26.67" width="0.1524" layer="91"/>
 <junction x="516.255" y="-26.67"/>
-</segment>
-</net>
-<net name="GND" class="0">
-<segment>
-<wire x1="375.92" y1="-172.72" x2="378.46" y2="-172.72" width="0.1524" layer="91"/>
-<wire x1="378.46" y1="-172.72" x2="378.46" y2="-177.8" width="0.1524" layer="91"/>
-<label x="378.46" y="-177.8" size="1.27" layer="95" rot="R270" xref="yes"/>
-<pinref part="IC4" gate="G$1" pin="GND@2"/>
-</segment>
-<segment>
-<wire x1="350.52" y1="-172.72" x2="345.44" y2="-172.72" width="0.1524" layer="91"/>
-<wire x1="345.44" y1="-172.72" x2="345.44" y2="-177.8" width="0.1524" layer="91"/>
-<label x="345.44" y="-177.8" size="1.27" layer="95" rot="R270" xref="yes"/>
-<pinref part="IC4" gate="G$1" pin="GND@1"/>
-</segment>
-<segment>
-<pinref part="PS" gate="-3" pin="1"/>
-<wire x1="375.92" y1="27.94" x2="383.54" y2="27.94" width="0.1524" layer="91"/>
-<label x="383.54" y="27.94" size="1.778" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="POWER" class="0">
