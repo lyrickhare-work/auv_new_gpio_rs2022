@@ -31256,7 +31256,7 @@ male, 96 pins, type R, rows ABC, grid 2.54 mm</description>
 <part name="RI2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="M0805" package3d_urn="urn:adsk.eagle:package:23556/2" value="100"/>
 <part name="RI3" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="M0805" package3d_urn="urn:adsk.eagle:package:23556/2" value="100"/>
 <part name="C18" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="C-US" device="025-050X050" package3d_urn="urn:adsk.eagle:package:6240320/1" value="10uF"/>
-<part name="S1" library="SparkFun-Switches" library_urn="urn:adsk.eagle:library:535" deviceset="MOMENTARY-SWITCH-SPST" device="-PTH-6.0MM" package3d_urn="urn:adsk.eagle:package:40163/1"/>
+<part name="S1" library="SparkFun-Switches" library_urn="urn:adsk.eagle:library:535" deviceset="MOMENTARY-SWITCH-SPST" device="-PTH-6.0MM" package3d_urn="urn:adsk.eagle:package:40163/1" value=" ."/>
 <part name="X1" library="con-vg" library_urn="urn:adsk.eagle:library:194" deviceset="MABC96R" device="">
 <attribute name="MF" value=""/>
 <attribute name="MPN" value=""/>
@@ -31925,8 +31925,6 @@ male, 96 pins, type R, rows ABC, grid 2.54 mm</description>
 <pinref part="JP1" gate="G$1" pin="10"/>
 <wire x1="-223.52" y1="-167.64" x2="-223.52" y2="-170.18" width="0.1524" layer="91"/>
 <wire x1="-223.52" y1="-170.18" x2="-226.06" y2="-170.18" width="0.1524" layer="91"/>
-<pinref part="JP1" gate="G$1" pin="8"/>
-<wire x1="-226.06" y1="-167.64" x2="-223.52" y2="-167.64" width="0.1524" layer="91"/>
 <label x="-223.52" y="-167.64" size="1.778" layer="95" xref="yes"/>
 </segment>
 <segment>
@@ -32512,11 +32510,6 @@ male, 96 pins, type R, rows ABC, grid 2.54 mm</description>
 <label x="-302.26" y="-71.12" size="1.778" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="JP1" gate="G$1" pin="6"/>
-<wire x1="-226.06" y1="-165.1" x2="-223.52" y2="-165.1" width="0.1524" layer="91"/>
-<label x="-223.52" y="-165.1" size="1.778" layer="95" xref="yes"/>
-</segment>
-<segment>
 <pinref part="X1" gate="-A3" pin="S"/>
 <wire x1="-599.44" y1="-144.78" x2="-614.68" y2="-144.78" width="0.1524" layer="91"/>
 <label x="-614.68" y="-144.78" size="1.778" layer="95" rot="R180" xref="yes"/>
@@ -32533,11 +32526,6 @@ male, 96 pins, type R, rows ABC, grid 2.54 mm</description>
 <pinref part="IC1" gate="G$1" pin="PD1(TXD)"/>
 <wire x1="-304.8" y1="-73.66" x2="-302.26" y2="-73.66" width="0.1524" layer="91"/>
 <label x="-302.26" y="-73.66" size="1.778" layer="95" xref="yes"/>
-</segment>
-<segment>
-<pinref part="JP1" gate="G$1" pin="4"/>
-<wire x1="-226.06" y1="-162.56" x2="-223.52" y2="-162.56" width="0.1524" layer="91"/>
-<label x="-223.52" y="-162.56" size="1.778" layer="95" xref="yes"/>
 </segment>
 <segment>
 <pinref part="X1" gate="-A4" pin="S"/>
