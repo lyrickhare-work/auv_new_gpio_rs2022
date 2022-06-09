@@ -20665,7 +20665,7 @@ Source: http://www.ledtronics.com/ds/smd-0603/Dstr0092.pdf</description>
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="LED" urn="urn:adsk.eagle:component:15916/9" prefix="LED" uservalue="yes" library_version="4">
+<deviceset name="LED" urn="urn:adsk.eagle:component:15916/10" prefix="LED" uservalue="yes" library_version="5">
 <description>&lt;b&gt;LED&lt;/b&gt;&lt;p&gt;
 &lt;u&gt;OSRAM&lt;/u&gt;:&lt;br&gt;
 
@@ -20754,7 +20754,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15796/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="20" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="LD260" package="LD260">
@@ -20766,7 +20768,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15794/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SQR2X5" package="LED2X5">
@@ -20778,7 +20782,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15800/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="2" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="3MM" package="LED3MM">
@@ -20790,7 +20796,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15797/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="97" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="5MM" package="LED5MM">
@@ -20802,7 +20810,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15799/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="93" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="LSU260" package="LSU260">
@@ -20814,7 +20824,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15805/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="LZR181" package="LZR181">
@@ -20826,7 +20838,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15808/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="1" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="B152" package="Q62902-B152">
@@ -20838,7 +20852,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15803/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="B153" package="Q62902-B153">
@@ -20850,7 +20866,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15804/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="B155" package="Q62902-B155">
@@ -20862,7 +20880,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15807/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="B156" package="Q62902-B156">
@@ -20874,7 +20894,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15806/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SFH480" package="SFH480">
@@ -20886,7 +20908,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15809/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="2" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SFH482" package="SFH482">
@@ -20898,7 +20922,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15795/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SQR5.7X3.2" package="U57X32">
@@ -20910,7 +20936,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15789/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="IRL80A" package="IRL80A">
@@ -20922,7 +20950,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15810/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="P-LCC-2" package="P-LCC-2">
@@ -20934,7 +20964,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15817/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="2" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="MINI-TOP" package="OSRAM-MINI-TOP-LED">
@@ -20946,7 +20978,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15811/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SIDELED" package="OSRAM-SIDELED">
@@ -20958,7 +20992,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15812/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="2" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SMART-LED" package="SMART-LED">
@@ -20970,7 +21006,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15814/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="P-LCC-2-BACK" package="P-LCC-2-TOPLED-RG">
@@ -20982,7 +21020,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15813/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="MICRO-SIDELED" package="MICRO-SIDELED">
@@ -20994,7 +21034,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15815/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="P-LCC-4" package="P-LCC-4">
@@ -21006,7 +21048,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15816/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="CHIP-LED0603" package="CHIP-LED0603">
@@ -21018,7 +21062,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15819/3"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="26" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="CHIP-LED0805" package="CHIP-LED0805">
@@ -21030,7 +21076,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15818/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="68" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="TOPLED-SANTANA" package="MINI-TOPLED-SANTANA">
@@ -21042,7 +21090,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15820/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="CHIPLED_0805" package="CHIPLED_0805">
@@ -21054,7 +21104,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15821/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="52" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="CHIPLED_1206" package="CHIPLED_1206">
@@ -21066,7 +21118,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15823/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="28" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="CHIPLED_0603" package="CHIPLED_0603">
@@ -21078,7 +21132,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15822/2"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="28" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="CHIPLED-0603-TTW" package="CHIPLED-0603-TTW">
@@ -21090,7 +21146,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15824/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="" package="SMARTLED-TTW">
@@ -21102,7 +21160,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15825/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="3" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="-LUMILED+" package="LUMILED+">
@@ -21114,7 +21174,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15826/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="-LUMILED" package="LUMILED">
@@ -21126,7 +21188,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15827/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="10MM" package="LED10MM">
@@ -21138,7 +21202,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15828/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="2" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="KA-3528ASYC" package="KA-3528ASYC">
@@ -21150,7 +21216,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15831/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="0" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SML0805" package="SML0805">
@@ -21162,7 +21230,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15830/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="17" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SML1206" package="SML1206">
@@ -21174,7 +21244,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15829/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="6" constant="no"/>
+</technology>
 </technologies>
 </device>
 <device name="SML0603" package="SML0603">
@@ -21186,7 +21258,9 @@ Source: www.kingbright.com</description>
 <package3dinstance package3d_urn="urn:adsk.eagle:package:15832/1"/>
 </package3dinstances>
 <technologies>
-<technology name=""/>
+<technology name="">
+<attribute name="POPULARITY" value="17" constant="no"/>
+</technology>
 </technologies>
 </device>
 </devices>
@@ -21239,13 +21313,13 @@ Source: www.kingbright.com</description>
 <part name="S3" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="EG1218" device="S" package3d_urn="urn:adsk.eagle:package:6240649/1"/>
 <part name="SL1" library="con-amp-quick" library_urn="urn:adsk.eagle:library:125" deviceset="MA03" device="" package3d_urn="urn:adsk.eagle:package:5957/1"/>
 <part name="R24" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="M0805" package3d_urn="urn:adsk.eagle:package:23556/2" value="1k"/>
-<part name="PWR" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="5MM" package3d_urn="urn:adsk.eagle:package:15799/2"/>
 <part name="R2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="M0805" package3d_urn="urn:adsk.eagle:package:23556/2" value="1k"/>
-<part name="PWR1" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="5MM" package3d_urn="urn:adsk.eagle:package:15799/2"/>
 <part name="C1" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="C-US" device="025-050X050" package3d_urn="urn:adsk.eagle:package:6240320/1" value="10u"/>
 <part name="C2" library="adafruit" library_urn="urn:adsk.eagle:library:420" deviceset="C-US" device="025-050X050" package3d_urn="urn:adsk.eagle:package:6240320/1" value="10u"/>
 <part name="RD2" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="M0805" package3d_urn="urn:adsk.eagle:package:23556/2" value="10K"/>
 <part name="RD3" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="M0805" package3d_urn="urn:adsk.eagle:package:23556/2" value="10K"/>
+<part name="LED7" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="CHIPLED_0805" package3d_urn="urn:adsk.eagle:package:15821/2"/>
+<part name="LED1" library="led" library_urn="urn:adsk.eagle:library:259" deviceset="LED" device="CHIPLED_0805" package3d_urn="urn:adsk.eagle:package:15821/2"/>
 </parts>
 <sheets>
 <sheet>
@@ -21689,15 +21763,9 @@ Source: www.kingbright.com</description>
 <attribute name="NAME" x="505.2314" y="-15.24" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="510.032" y="-15.24" size="1.778" layer="96" rot="R90"/>
 </instance>
-<instance part="PWR" gate="G$1" x="506.73" y="-24.13" smashed="yes">
-<attribute name="VALUE" x="502.031" y="-27.432" size="1.778" layer="96" rot="R90"/>
-</instance>
 <instance part="R2" gate="G$1" x="509.27" y="-49.53" smashed="yes" rot="R90">
 <attribute name="NAME" x="507.7714" y="-53.34" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="512.572" y="-53.34" size="1.778" layer="96" rot="R90"/>
-</instance>
-<instance part="PWR1" gate="G$1" x="509.27" y="-62.23" smashed="yes">
-<attribute name="VALUE" x="504.571" y="-65.532" size="1.778" layer="96" rot="R90"/>
 </instance>
 <instance part="C1" gate="G$1" x="622.3" y="-55.88" smashed="yes" rot="R90">
 <attribute name="NAME" x="621.665" y="-54.864" size="1.778" layer="95" rot="R90"/>
@@ -21713,6 +21781,14 @@ Source: www.kingbright.com</description>
 <instance part="RD3" gate="G$1" x="378.968" y="-12.192" smashed="yes" rot="R270">
 <attribute name="NAME" x="380.4666" y="-8.382" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="375.666" y="-8.382" size="1.778" layer="96" rot="R270"/>
+</instance>
+<instance part="LED7" gate="G$1" x="509.27" y="-62.23" smashed="yes">
+<attribute name="NAME" x="512.826" y="-66.802" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="514.985" y="-66.802" size="1.778" layer="96" rot="R90"/>
+</instance>
+<instance part="LED1" gate="G$1" x="506.73" y="-24.13" smashed="yes">
+<attribute name="NAME" x="510.286" y="-28.702" size="1.778" layer="95" rot="R90"/>
+<attribute name="VALUE" x="512.445" y="-28.702" size="1.778" layer="96" rot="R90"/>
 </instance>
 </instances>
 <busses>
@@ -21867,16 +21943,16 @@ Source: www.kingbright.com</description>
 <label x="561.34" y="33.02" size="1.016" layer="95" xref="yes"/>
 </segment>
 <segment>
-<pinref part="PWR1" gate="G$1" pin="C"/>
 <wire x1="509.27" y1="-67.31" x2="509.27" y2="-73.66" width="0.1524" layer="91"/>
 <wire x1="509.27" y1="-73.66" x2="513.08" y2="-73.66" width="0.1524" layer="91"/>
 <label x="513.08" y="-73.66" size="1.778" layer="95" rot="R90" xref="yes"/>
+<pinref part="LED7" gate="G$1" pin="C"/>
 </segment>
 <segment>
-<pinref part="PWR" gate="G$1" pin="C"/>
 <wire x1="506.73" y1="-29.21" x2="506.73" y2="-35.56" width="0.1524" layer="91"/>
 <wire x1="506.73" y1="-35.56" x2="510.54" y2="-35.56" width="0.1524" layer="91"/>
 <label x="510.54" y="-35.56" size="1.778" layer="95" rot="R90" xref="yes"/>
+<pinref part="LED1" gate="G$1" pin="C"/>
 </segment>
 <segment>
 <pinref part="C1" gate="G$1" pin="2"/>
@@ -21919,10 +21995,10 @@ Source: www.kingbright.com</description>
 <junction x="584.2" y="-165.1"/>
 </segment>
 <segment>
-<pinref part="U4" gate="G$1" pin="PD7(AIN1)"/>
-<wire x1="432.435" y1="-63.5" x2="441.96" y2="-63.5" width="0.1524" layer="91"/>
-<label x="441.96" y="-63.5" size="1.778" layer="95" xref="yes"/>
-<wire x1="432.409953125" y1="-63.5006375" x2="432.435" y2="-63.5" width="0.1524" layer="91"/>
+<pinref part="U4" gate="G$1" pin="PD0(RXD)"/>
+<wire x1="432.409953125" y1="-45.7206375" x2="432.409953125" y2="-45.72" width="0.1524" layer="91"/>
+<wire x1="432.409953125" y1="-45.72" x2="436.88" y2="-45.72" width="0.1524" layer="91"/>
+<label x="436.88" y="-45.72" size="1.778" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="PWM2" class="0">
@@ -21938,10 +22014,10 @@ Source: www.kingbright.com</description>
 <junction x="584.2" y="-162.56"/>
 </segment>
 <segment>
-<wire x1="432.435" y1="-60.96" x2="452.12" y2="-60.96" width="0.1524" layer="91"/>
-<label x="452.12" y="-60.96" size="1.778" layer="95" xref="yes"/>
-<pinref part="U4" gate="G$1" pin="PD6(AIN0)"/>
-<wire x1="432.409953125" y1="-60.9606375" x2="432.435" y2="-60.96" width="0.1524" layer="91"/>
+<pinref part="U4" gate="G$1" pin="PD1(TXD)"/>
+<wire x1="432.409953125" y1="-48.2606375" x2="432.409953125" y2="-48.26" width="0.1524" layer="91"/>
+<wire x1="432.409953125" y1="-48.26" x2="436.88" y2="-48.26" width="0.1524" layer="91"/>
+<label x="436.88" y="-48.26" size="1.778" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="PWM6" class="0">
@@ -21957,10 +22033,10 @@ Source: www.kingbright.com</description>
 <junction x="584.2" y="-152.4"/>
 </segment>
 <segment>
-<pinref part="U4" gate="G$1" pin="PD2(INT0)"/>
-<wire x1="432.409953125" y1="-50.8006375" x2="432.409953125" y2="-50.8" width="0.1524" layer="91"/>
-<wire x1="432.409953125" y1="-50.8" x2="434.34" y2="-50.8" width="0.1524" layer="91"/>
-<label x="434.34" y="-50.8" size="1.778" layer="95" xref="yes"/>
+<pinref part="U4" gate="G$1" pin="PD5(T1)"/>
+<wire x1="432.409953125" y1="-58.4206375" x2="432.409953125" y2="-58.42" width="0.1524" layer="91"/>
+<wire x1="432.409953125" y1="-58.42" x2="436.88" y2="-58.42" width="0.1524" layer="91"/>
+<label x="436.88" y="-58.42" size="1.778" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="PWM7" class="0">
@@ -21976,10 +22052,10 @@ Source: www.kingbright.com</description>
 <junction x="584.2" y="-149.86"/>
 </segment>
 <segment>
-<pinref part="U4" gate="G$1" pin="PD1(TXD)"/>
-<wire x1="432.409953125" y1="-48.2606375" x2="432.409953125" y2="-48.26" width="0.1524" layer="91"/>
-<wire x1="432.409953125" y1="-48.26" x2="434.34" y2="-48.26" width="0.1524" layer="91"/>
-<label x="434.34" y="-48.26" size="1.778" layer="95" xref="yes"/>
+<pinref part="U4" gate="G$1" pin="PD6(AIN0)"/>
+<wire x1="432.409953125" y1="-60.9606375" x2="432.409953125" y2="-60.96" width="0.1524" layer="91"/>
+<wire x1="432.409953125" y1="-60.96" x2="436.88" y2="-60.96" width="0.1524" layer="91"/>
+<label x="436.88" y="-60.96" size="1.778" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="PWM8" class="0">
@@ -22008,10 +22084,10 @@ Source: www.kingbright.com</description>
 <junction x="584.2" y="-147.32"/>
 </segment>
 <segment>
-<pinref part="U4" gate="G$1" pin="PD0(RXD)"/>
-<wire x1="432.409953125" y1="-45.7206375" x2="432.409953125" y2="-43.18" width="0.1524" layer="91"/>
-<wire x1="432.409953125" y1="-43.18" x2="434.34" y2="-43.18" width="0.1524" layer="91"/>
-<label x="434.34" y="-43.18" size="1.778" layer="95" xref="yes"/>
+<pinref part="U4" gate="G$1" pin="PD7(AIN1)"/>
+<wire x1="432.409953125" y1="-63.5006375" x2="432.409953125" y2="-63.5" width="0.1524" layer="91"/>
+<wire x1="432.409953125" y1="-63.5" x2="444.5" y2="-63.5" width="0.1524" layer="91"/>
+<label x="444.5" y="-63.5" size="1.778" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="CAN_SCK" class="0">
@@ -22107,23 +22183,10 @@ Source: www.kingbright.com</description>
 <junction x="584.2" y="-160.02"/>
 </segment>
 <segment>
-<pinref part="U4" gate="G$1" pin="PD5(T1)"/>
-<wire x1="432.409953125" y1="-58.4206375" x2="432.409953125" y2="-58.42" width="0.1524" layer="91"/>
-<wire x1="432.409953125" y1="-58.42" x2="434.34" y2="-58.42" width="0.1524" layer="91"/>
-<label x="434.34" y="-58.42" size="1.778" layer="95" xref="yes"/>
-</segment>
-</net>
-<net name="INT_2" class="0">
-<segment>
-<pinref part="X2" gate="-C8" pin="S"/>
-<pinref part="X2" gate="-B8" pin="S"/>
-<wire x1="601.98" y1="-124.46" x2="619.76" y2="-124.46" width="0.1524" layer="91"/>
-<junction x="601.98" y="-124.46"/>
-<wire x1="584.2" y1="-124.46" x2="601.98" y2="-124.46" width="0.1524" layer="91"/>
-<pinref part="X2" gate="-A8" pin="S"/>
-<label x="571.5" y="-124.46" size="1.778" layer="95" rot="R180" xref="yes"/>
-<wire x1="584.2" y1="-124.46" x2="571.5" y2="-124.46" width="0.1524" layer="91"/>
-<junction x="584.2" y="-124.46"/>
+<pinref part="U4" gate="G$1" pin="PD2(INT0)"/>
+<wire x1="432.409953125" y1="-50.8006375" x2="432.409953125" y2="-50.8" width="0.1524" layer="91"/>
+<wire x1="432.409953125" y1="-50.8" x2="436.88" y2="-50.8" width="0.1524" layer="91"/>
+<label x="436.88" y="-50.8" size="1.778" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="CAN_INT" class="0">
@@ -22139,32 +22202,6 @@ Source: www.kingbright.com</description>
 <wire x1="614.68" y1="-55.88" x2="614.68" y2="-60.96" width="0.1524" layer="91"/>
 <wire x1="614.68" y1="-60.96" x2="622.3" y2="-60.96" width="0.1524" layer="91"/>
 <label x="622.3" y="-60.96" size="1.778" layer="95" xref="yes"/>
-</segment>
-</net>
-<net name="MOSI_M" class="0">
-<segment>
-<pinref part="X2" gate="-B6" pin="S"/>
-<pinref part="X2" gate="-C6" pin="S"/>
-<wire x1="601.98" y1="-119.38" x2="619.76" y2="-119.38" width="0.1524" layer="91"/>
-<wire x1="584.2" y1="-119.38" x2="601.98" y2="-119.38" width="0.1524" layer="91"/>
-<pinref part="X2" gate="-A6" pin="S"/>
-<junction x="601.98" y="-119.38"/>
-<wire x1="584.2" y1="-119.38" x2="566.42" y2="-119.38" width="0.1524" layer="91"/>
-<label x="566.42" y="-119.38" size="1.778" layer="95" rot="R180" xref="yes"/>
-<junction x="584.2" y="-119.38"/>
-</segment>
-</net>
-<net name="CAN_SCK_M" class="0">
-<segment>
-<wire x1="584.2" y1="-116.84" x2="601.98" y2="-116.84" width="0.1524" layer="91"/>
-<pinref part="X2" gate="-A5" pin="S"/>
-<pinref part="X2" gate="-B5" pin="S"/>
-<pinref part="X2" gate="-C5" pin="S"/>
-<wire x1="601.98" y1="-116.84" x2="619.76" y2="-116.84" width="0.1524" layer="91"/>
-<junction x="601.98" y="-116.84"/>
-<wire x1="584.2" y1="-116.84" x2="566.42" y2="-116.84" width="0.1524" layer="91"/>
-<label x="566.42" y="-116.84" size="1.778" layer="95" rot="R180" xref="yes"/>
-<junction x="584.2" y="-116.84"/>
 </segment>
 </net>
 <net name="RESET" class="0">
@@ -22292,9 +22329,9 @@ Source: www.kingbright.com</description>
 <pinref part="Q10" gate="G$1" pin="G"/>
 </segment>
 <segment>
-<pinref part="RI3" gate="G$1" pin="1"/>
-<wire x1="398.78" y1="-167.64" x2="401.32" y2="-167.64" width="0.1524" layer="91"/>
-<label x="401.32" y="-167.64" size="1.778" layer="95" xref="yes"/>
+<pinref part="RD1" gate="G$1" pin="1"/>
+<wire x1="398.78" y1="-137.16" x2="403.86" y2="-137.16" width="0.1524" layer="91"/>
+<label x="403.86" y="-137.16" size="1.778" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="PNEU_2_OUT" class="0">
@@ -22304,9 +22341,9 @@ Source: www.kingbright.com</description>
 <pinref part="Q7" gate="G$1" pin="G"/>
 </segment>
 <segment>
-<pinref part="RI2" gate="G$1" pin="1"/>
-<wire x1="398.78" y1="-157.48" x2="401.32" y2="-157.48" width="0.1524" layer="91"/>
-<label x="401.32" y="-157.48" size="1.778" layer="95" xref="yes"/>
+<pinref part="RI1" gate="G$1" pin="1"/>
+<wire x1="398.78" y1="-147.32" x2="403.86" y2="-147.32" width="0.1524" layer="91"/>
+<label x="403.86" y="-147.32" size="1.778" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="PNEU_3_OUT" class="0">
@@ -22316,9 +22353,9 @@ Source: www.kingbright.com</description>
 <pinref part="Q6" gate="G$1" pin="G"/>
 </segment>
 <segment>
-<pinref part="RI1" gate="G$1" pin="1"/>
-<wire x1="398.78" y1="-147.32" x2="401.32" y2="-147.32" width="0.1524" layer="91"/>
-<label x="401.32" y="-147.32" size="1.778" layer="95" xref="yes"/>
+<pinref part="RI2" gate="G$1" pin="1"/>
+<wire x1="398.78" y1="-157.48" x2="403.86" y2="-157.48" width="0.1524" layer="91"/>
+<label x="403.86" y="-157.48" size="1.778" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="PNEU_4_OUT" class="0">
@@ -22328,48 +22365,9 @@ Source: www.kingbright.com</description>
 <pinref part="Q9" gate="G$1" pin="G"/>
 </segment>
 <segment>
-<pinref part="RD1" gate="G$1" pin="1"/>
-<wire x1="398.78" y1="-137.16" x2="401.32" y2="-137.16" width="0.1524" layer="91"/>
-<label x="401.32" y="-137.16" size="1.778" layer="95" xref="yes"/>
-</segment>
-</net>
-<net name="CUSTOMPIN1_M" class="0">
-<segment>
-<pinref part="X2" gate="-B15" pin="S"/>
-<pinref part="X2" gate="-C15" pin="S"/>
-<wire x1="601.98" y1="-142.24" x2="619.76" y2="-142.24" width="0.1524" layer="91"/>
-<wire x1="584.2" y1="-142.24" x2="601.98" y2="-142.24" width="0.1524" layer="91"/>
-<pinref part="X2" gate="-A15" pin="S"/>
-<junction x="601.98" y="-142.24"/>
-<label x="568.96" y="-142.24" size="1.778" layer="95" rot="R180" xref="yes"/>
-<wire x1="584.2" y1="-142.24" x2="568.96" y2="-142.24" width="0.1524" layer="91"/>
-<junction x="584.2" y="-142.24"/>
-</segment>
-</net>
-<net name="CAN_P" class="1">
-<segment>
-<wire x1="568.96" y1="-127" x2="584.2" y2="-127" width="0.1524" layer="91"/>
-<label x="568.96" y="-127" size="1.778" layer="95" rot="R180" xref="yes"/>
-<pinref part="X2" gate="-C9" pin="S"/>
-<pinref part="X2" gate="-B9" pin="S"/>
-<wire x1="601.98" y1="-127" x2="619.76" y2="-127" width="0.1524" layer="91"/>
-<junction x="601.98" y="-127"/>
-<pinref part="X2" gate="-A9" pin="S"/>
-<junction x="584.2" y="-127"/>
-<wire x1="584.2" y1="-127" x2="601.98" y2="-127" width="0.1524" layer="91"/>
-</segment>
-</net>
-<net name="CAN_N" class="1">
-<segment>
-<pinref part="X2" gate="-C10" pin="S"/>
-<pinref part="X2" gate="-B10" pin="S"/>
-<wire x1="601.98" y1="-129.54" x2="619.76" y2="-129.54" width="0.1524" layer="91"/>
-<junction x="601.98" y="-129.54"/>
-<pinref part="X2" gate="-A10" pin="S"/>
-<wire x1="584.2" y1="-129.54" x2="568.96" y2="-129.54" width="0.1524" layer="91"/>
-<label x="568.96" y="-129.54" size="1.778" layer="95" rot="R180" xref="yes"/>
-<junction x="584.2" y="-129.54"/>
-<wire x1="584.2" y1="-129.54" x2="601.98" y2="-129.54" width="0.1524" layer="91"/>
+<pinref part="RI3" gate="G$1" pin="1"/>
+<wire x1="398.78" y1="-167.64" x2="403.86" y2="-167.64" width="0.1524" layer="91"/>
+<label x="403.86" y="-167.64" size="1.778" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="CAN1_P" class="1">
@@ -22480,28 +22478,28 @@ Source: www.kingbright.com</description>
 </net>
 <net name="PNEU_3_IN" class="0">
 <segment>
+<pinref part="IC4" gate="G$1" pin="IN3"/>
+<wire x1="350.52" y1="-162.56" x2="345.44" y2="-162.56" width="0.1524" layer="91"/>
+<label x="345.44" y="-162.56" size="1.778" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="U4" gate="G$1" pin="PC3(ADC3)"/>
+<wire x1="432.409953125" y1="-30.4806375" x2="432.409953125" y2="-30.48" width="0.1524" layer="91"/>
+<wire x1="432.409953125" y1="-30.48" x2="439.42" y2="-30.48" width="0.1524" layer="91"/>
+<label x="439.42" y="-30.48" size="1.778" layer="95" xref="yes"/>
+</segment>
+</net>
+<net name="PNEU_2_IN" class="0">
+<segment>
 <pinref part="IC4" gate="G$1" pin="IN2"/>
-<wire x1="350.52" y1="-157.48" x2="347.98" y2="-157.48" width="0.1524" layer="91"/>
-<label x="347.98" y="-157.48" size="1.778" layer="95" rot="R180" xref="yes"/>
+<wire x1="350.52" y1="-157.48" x2="345.44" y2="-157.48" width="0.1524" layer="91"/>
+<label x="345.44" y="-157.48" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
 <pinref part="U4" gate="G$1" pin="PC4(ADC4/SDA)"/>
 <wire x1="432.409953125" y1="-33.0206375" x2="432.409953125" y2="-33.02" width="0.1524" layer="91"/>
 <wire x1="432.409953125" y1="-33.02" x2="439.42" y2="-33.02" width="0.1524" layer="91"/>
 <label x="439.42" y="-33.02" size="1.778" layer="95" xref="yes"/>
-</segment>
-</net>
-<net name="PNEU_2_IN" class="0">
-<segment>
-<pinref part="IC4" gate="G$1" pin="IN3"/>
-<wire x1="350.52" y1="-162.56" x2="347.98" y2="-162.56" width="0.1524" layer="91"/>
-<label x="347.98" y="-162.56" size="1.778" layer="95" rot="R180" xref="yes"/>
-</segment>
-<segment>
-<pinref part="U4" gate="G$1" pin="PC3(ADC3)"/>
-<wire x1="432.409953125" y1="-30.4806375" x2="441.96" y2="-30.4806375" width="0.1524" layer="91"/>
-<wire x1="441.96" y1="-30.4806375" x2="441.96" y2="-30.48" width="0.1524" layer="91"/>
-<label x="439.42" y="-30.48" size="1.778" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="G1" class="0">
@@ -22575,28 +22573,31 @@ Source: www.kingbright.com</description>
 </net>
 <net name="PNEU_4_IN" class="0">
 <segment>
-<pinref part="IC4" gate="G$1" pin="IN1"/>
-<wire x1="350.52" y1="-152.4" x2="347.98" y2="-152.4" width="0.1524" layer="91"/>
-<label x="347.98" y="-152.4" size="1.778" layer="95" rot="R180" xref="yes"/>
-</segment>
-<segment>
-<pinref part="U4" gate="G$1" pin="PC5(ADC5/SCL)"/>
-<wire x1="432.409953125" y1="-35.5606375" x2="441.96" y2="-35.5606375" width="0.1524" layer="91"/>
 <wire x1="441.96" y1="-35.5606375" x2="441.96" y2="-35.56" width="0.1524" layer="91"/>
-<label x="441.96" y="-35.56" size="1.778" layer="95" xref="yes"/>
 </segment>
-</net>
-<net name="PNEU_1_IN" class="0">
 <segment>
 <pinref part="IC4" gate="G$1" pin="IN4"/>
-<wire x1="350.52" y1="-167.64" x2="347.98" y2="-167.64" width="0.1524" layer="91"/>
-<label x="347.98" y="-167.64" size="1.778" layer="95" rot="R180" xref="yes"/>
+<wire x1="350.52" y1="-167.64" x2="345.44" y2="-167.64" width="0.1524" layer="91"/>
+<label x="345.44" y="-167.64" size="1.778" layer="95" rot="R180" xref="yes"/>
 </segment>
 <segment>
 <pinref part="U4" gate="G$1" pin="PC1(ADC1)"/>
 <wire x1="432.409953125" y1="-25.4006375" x2="432.409953125" y2="-25.4" width="0.1524" layer="91"/>
-<wire x1="432.409953125" y1="-25.4" x2="439.42" y2="-25.4" width="0.1524" layer="91"/>
-<label x="439.42" y="-25.4" size="1.778" layer="95" xref="yes"/>
+<wire x1="432.409953125" y1="-25.4" x2="436.88" y2="-25.4" width="0.1524" layer="91"/>
+<label x="436.88" y="-25.4" size="1.778" layer="95" xref="yes"/>
+</segment>
+</net>
+<net name="PNEU_1_IN" class="0">
+<segment>
+<pinref part="IC4" gate="G$1" pin="IN1"/>
+<wire x1="350.52" y1="-152.4" x2="345.44" y2="-152.4" width="0.1524" layer="91"/>
+<label x="345.44" y="-152.4" size="1.778" layer="95" rot="R180" xref="yes"/>
+</segment>
+<segment>
+<pinref part="U4" gate="G$1" pin="PC5(ADC5/SCL)"/>
+<wire x1="432.409953125" y1="-35.5606375" x2="432.409953125" y2="-35.56" width="0.1524" layer="91"/>
+<wire x1="432.409953125" y1="-35.56" x2="436.88" y2="-35.56" width="0.1524" layer="91"/>
+<label x="436.88" y="-35.56" size="1.778" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="PNEU_1" class="0">
@@ -22732,10 +22733,10 @@ Source: www.kingbright.com</description>
 <junction x="584.2" y="-157.48"/>
 </segment>
 <segment>
-<pinref part="U4" gate="G$1" pin="PD4(XCK/T0)"/>
-<wire x1="432.409953125" y1="-55.8806375" x2="432.409953125" y2="-55.88" width="0.1524" layer="91"/>
-<wire x1="432.409953125" y1="-55.88" x2="436.88" y2="-55.88" width="0.1524" layer="91"/>
-<label x="436.88" y="-55.88" size="1.778" layer="95" xref="yes"/>
+<pinref part="U4" gate="G$1" pin="PD3(INT1)"/>
+<wire x1="432.409953125" y1="-53.3406375" x2="432.409953125" y2="-53.34" width="0.1524" layer="91"/>
+<wire x1="432.409953125" y1="-53.34" x2="436.88" y2="-53.34" width="0.1524" layer="91"/>
+<label x="436.88" y="-53.34" size="1.778" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="PWM5" class="0">
@@ -22751,24 +22752,24 @@ Source: www.kingbright.com</description>
 <junction x="584.2" y="-154.94"/>
 </segment>
 <segment>
-<pinref part="U4" gate="G$1" pin="PD3(INT1)"/>
-<wire x1="432.409953125" y1="-53.3406375" x2="432.409953125" y2="-53.34" width="0.1524" layer="91"/>
-<wire x1="432.409953125" y1="-53.34" x2="434.34" y2="-53.34" width="0.1524" layer="91"/>
-<label x="434.34" y="-53.34" size="1.778" layer="95" xref="yes"/>
+<pinref part="U4" gate="G$1" pin="PD4(XCK/T0)"/>
+<wire x1="432.409953125" y1="-55.8806375" x2="432.409953125" y2="-55.88" width="0.1524" layer="91"/>
+<wire x1="432.409953125" y1="-55.88" x2="436.88" y2="-55.88" width="0.1524" layer="91"/>
+<label x="436.88" y="-55.88" size="1.778" layer="95" xref="yes"/>
 </segment>
 </net>
 <net name="N$31" class="0">
 <segment>
 <pinref part="R24" gate="G$1" pin="1"/>
 <wire x1="506.73" y1="-16.51" x2="506.73" y2="-21.59" width="0.1524" layer="91"/>
-<pinref part="PWR" gate="G$1" pin="A"/>
+<pinref part="LED1" gate="G$1" pin="A"/>
 </segment>
 </net>
 <net name="N$1" class="0">
 <segment>
 <pinref part="R2" gate="G$1" pin="1"/>
 <wire x1="509.27" y1="-54.61" x2="509.27" y2="-59.69" width="0.1524" layer="91"/>
-<pinref part="PWR1" gate="G$1" pin="A"/>
+<pinref part="LED7" gate="G$1" pin="A"/>
 </segment>
 </net>
 </nets>
